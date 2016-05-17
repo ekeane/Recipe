@@ -1,0 +1,91 @@
+* {
+    font-family: sans-serif;
+     
+}
+
+
+h1 {
+    text-shadow: 2px 2px yellow;
+    font-size: 50px;
+    text-align: center;
+
+
+
+}
+
+#ingredients {
+
+    display: block;
+    width: 400px;
+    background-color: #DACA29;
+    margin: 22px;
+    padding: 15px;
+    font-size: 25px;
+    float: right;
+    clear: right;
+   
+
+}
+
+#instructions {
+
+
+    display: block;
+    width: 400px;
+    background-color: #DACA29;
+    margin: 22px;
+    padding: 15px;
+    font-size: 25px;
+    float: right;
+    clear: right;
+
+
+
+}
+
+#pancake {
+
+    
+    margin: 50px;
+    clear: left;
+    box-shadow: 10px 10px 5px #DACA29;
+    border-radius: 25px;
+    background: #DACA29;
+    padding: 20px; 
+    width: 400px;
+    height: 300px; 
+    position: relative;
+    bottom: 50px;
+    transition: all .2s ease-in-out;
+
+
+}
+#pancake:hover { 
+
+    transform: scale(1.1);
+ }
+
+ #button { 
+
+    background-color: #DACA29; 
+    color: black; 
+    padding: 10px; 
+    width: 150px;
+    font-size: 25px;
+    margin: 50px;
+    height: 50px;
+
+  }
+
+  h6 {  
+
+    font-size: 25px;
+    text-align: center;
+
+  }
+
+
+
+
+
+
